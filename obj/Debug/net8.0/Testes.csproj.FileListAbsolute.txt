@@ -1,0 +1,14 @@
+C:\Users\scppu\OneDrive\Área de Trabalho\Projetos\CSHARP\Testes\Testes\obj\Debug\net8.0\Testes.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\scppu\OneDrive\Área de Trabalho\Projetos\CSHARP\Testes\Testes\obj\Debug\net8.0\Testes.AssemblyInfoInputs.cache
+C:\Users\scppu\OneDrive\Área de Trabalho\Projetos\CSHARP\Testes\Testes\obj\Debug\net8.0\Testes.AssemblyInfo.cs
+C:\Users\scppu\OneDrive\Área de Trabalho\Projetos\CSHARP\Testes\Testes\obj\Debug\net8.0\Testes.csproj.CoreCompileInputs.cache
+C:\Users\scppu\OneDrive\Área de Trabalho\Projetos\CSHARP\Testes\Testes\bin\Debug\net8.0\Testes.exe
+C:\Users\scppu\OneDrive\Área de Trabalho\Projetos\CSHARP\Testes\Testes\bin\Debug\net8.0\Testes.deps.json
+C:\Users\scppu\OneDrive\Área de Trabalho\Projetos\CSHARP\Testes\Testes\bin\Debug\net8.0\Testes.runtimeconfig.json
+C:\Users\scppu\OneDrive\Área de Trabalho\Projetos\CSHARP\Testes\Testes\bin\Debug\net8.0\Testes.dll
+C:\Users\scppu\OneDrive\Área de Trabalho\Projetos\CSHARP\Testes\Testes\bin\Debug\net8.0\Testes.pdb
+C:\Users\scppu\OneDrive\Área de Trabalho\Projetos\CSHARP\Testes\Testes\obj\Debug\net8.0\Testes.dll
+C:\Users\scppu\OneDrive\Área de Trabalho\Projetos\CSHARP\Testes\Testes\obj\Debug\net8.0\refint\Testes.dll
+C:\Users\scppu\OneDrive\Área de Trabalho\Projetos\CSHARP\Testes\Testes\obj\Debug\net8.0\Testes.pdb
+C:\Users\scppu\OneDrive\Área de Trabalho\Projetos\CSHARP\Testes\Testes\obj\Debug\net8.0\Testes.genruntimeconfig.cache
+C:\Users\scppu\OneDrive\Área de Trabalho\Projetos\CSHARP\Testes\Testes\obj\Debug\net8.0\ref\Testes.dll
