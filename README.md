@@ -67,6 +67,6 @@ Execute:
 dotnet run
 ```
 
-##📜 Licença
+## 📜 Licença
 
 Este projeto foi desenvolvido para fins de estudo, fique à vontade para usar e modificar como quiser.
